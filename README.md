@@ -77,7 +77,7 @@ pandas
 python app.py
 ```
 
-Then visit `http://localhost:5000` in your browser.
+Then visit `https://house-price-prediction-2-o4bh.onrender.com/` in your browser.
 
 ---
 
@@ -102,11 +102,6 @@ Then visit `http://localhost:5000` in your browser.
 | Whitefield     | 1200       | 2    | 2   | ₹ 85.45 Lakhs    |
 | Electronic City| 1500       | 3    | 3   | ₹ 105.30 Lakhs   |
 
----
-
-## 📸 Screenshots
-
-> _You can add screenshots of your app here_
 
 ---
 
